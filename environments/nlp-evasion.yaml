@@ -37,9 +37,8 @@ dependencies:
       - tiktoken
       - haystack-ai>=2.0.0
 
-      # Parameter-efficient finetuning (optional)
+      # Parameter-efficient finetuning 
       - peft
-      - bitsandbytes     # optional; Linux/x86_64 only; skip on Apple Silicon/Windows
 
       # Dev quality-of-life
       - black
