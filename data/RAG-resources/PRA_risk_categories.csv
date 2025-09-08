@@ -1,0 +1,10 @@
+category,definition
+Capital adequacy,"""Sufficiency of capital to absorb losses; CET1 ratio, buffers, ICAAP."""
+Liquidity,"""Ability to meet obligations as they fall due; LCR/NSFR, funding profile, stress outflows."""
+Credit risk,"""Counterparty default/credit deterioration; provisioning, NPLs, concentration."""
+Market risk,"""P&L volatility from market movements; VaR, sensitivities, trading book."""
+Operational risk,"""Loss from processes/people/systems; cyber, fraud, resilience."""
+Conduct risk,"""Customer outcomes and market integrity; mis-selling, conflicts."""
+Governance,"""Board oversight, controls, risk culture, remuneration alignment."""
+Risk management,"""Risk frameworks, appetite, limits, aggregation, challenge."""
+Stress testing,"""Outcomes under stress scenarios; capital and liquidity impacts."""
