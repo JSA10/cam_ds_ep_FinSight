@@ -1,0 +1,16 @@
+--only-binary=:all:
+pip>=24
+setuptools>=70
+wheel>=0.43
+
+torch==2.4.*           # MPS works out of the box on macOS arm64
+transformers==4.44.*   # fast import path; recent wheels
+tokenizers==0.19.*     # ensure prebuilt wheel, no Rust build
+sentence-transformers==3.0.1
+accelerate
+huggingface_hub[cli]
+hf-transfer            # faster model downloads
+numpy
+pandas
+matplotlib
+textstat
