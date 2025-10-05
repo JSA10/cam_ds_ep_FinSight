@@ -1,0 +1,104 @@
+year,quarter,pra_category,role,negative,neutral,positive
+2023,Q1,Capital adequacy,analyst,0,6,12
+2023,Q1,Capital adequacy,banker,0,5,18
+2023,Q1,Conduct risk,analyst,0,0,2
+2023,Q1,Conduct risk,banker,0,0,3
+2023,Q1,Credit risk,analyst,2,4,2
+2023,Q1,Credit risk,banker,2,2,6
+2023,Q1,Liquidity,analyst,2,0,1
+2023,Q1,Liquidity,banker,0,1,5
+2023,Q1,Market risk,analyst,2,2,6
+2023,Q1,Market risk,banker,0,4,8
+2023,Q1,Stress testing,analyst,0,2,0
+2023,Q1,Stress testing,banker,0,0,7
+2023,Q2,Capital adequacy,analyst,0,5,2
+2023,Q2,Capital adequacy,banker,3,4,6
+2023,Q2,Credit risk,analyst,1,0,1
+2023,Q2,Credit risk,banker,0,1,3
+2023,Q2,Liquidity,analyst,2,0,1
+2023,Q2,Liquidity,banker,0,1,7
+2023,Q2,Market risk,analyst,1,2,4
+2023,Q2,Market risk,banker,0,1,8
+2023,Q2,Stress testing,banker,0,0,4
+2023,Q3,Capital adequacy,analyst,4,0,3
+2023,Q3,Capital adequacy,banker,0,2,13
+2023,Q3,Conduct risk,banker,0,2,0
+2023,Q3,Credit risk,analyst,0,2,3
+2023,Q3,Credit risk,banker,0,0,4
+2023,Q3,Liquidity,analyst,0,0,5
+2023,Q3,Liquidity,banker,0,0,3
+2023,Q3,Market risk,analyst,0,4,6
+2023,Q3,Market risk,banker,0,3,18
+2023,Q3,Operational risk,banker,0,0,2
+2023,Q3,Stress testing,analyst,0,2,0
+2023,Q4,Capital adequacy,analyst,0,0,6
+2023,Q4,Capital adequacy,banker,1,2,10
+2023,Q4,Conduct risk,analyst,1,0,0
+2023,Q4,Credit risk,analyst,0,0,1
+2023,Q4,Credit risk,banker,0,0,3
+2023,Q4,Liquidity,analyst,0,0,3
+2023,Q4,Liquidity,banker,0,0,2
+2023,Q4,Market risk,analyst,1,0,1
+2023,Q4,Market risk,banker,1,0,7
+2024,Q1,Capital adequacy,analyst,0,2,2
+2024,Q1,Capital adequacy,banker,1,0,6
+2024,Q1,Conduct risk,analyst,0,0,1
+2024,Q1,Conduct risk,banker,0,0,1
+2024,Q1,Credit risk,analyst,0,2,1
+2024,Q1,Credit risk,banker,0,0,3
+2024,Q1,Liquidity,banker,0,0,2
+2024,Q1,Market risk,analyst,2,0,4
+2024,Q1,Market risk,banker,1,0,3
+2024,Q1,Operational risk,banker,0,1,0
+2024,Q1,Stress testing,analyst,0,1,0
+2024,Q1,Stress testing,banker,0,0,1
+2024,Q2,Capital adequacy,analyst,2,1,5
+2024,Q2,Capital adequacy,banker,1,4,9
+2024,Q2,Conduct risk,banker,0,0,2
+2024,Q2,Credit risk,analyst,1,0,3
+2024,Q2,Credit risk,banker,1,0,1
+2024,Q2,Liquidity,analyst,0,0,1
+2024,Q2,Market risk,banker,1,2,10
+2024,Q2,Stress testing,banker,0,0,1
+2024,Q3,Capital adequacy,analyst,0,5,2
+2024,Q3,Capital adequacy,banker,0,6,5
+2024,Q3,Conduct risk,banker,0,1,3
+2024,Q3,Credit risk,analyst,0,3,2
+2024,Q3,Credit risk,banker,0,1,0
+2024,Q3,Governance,banker,0,1,0
+2024,Q3,Liquidity,analyst,0,0,2
+2024,Q3,Liquidity,banker,0,0,1
+2024,Q3,Market risk,analyst,2,1,3
+2024,Q3,Market risk,banker,4,0,11
+2024,Q4,Capital adequacy,analyst,0,8,7
+2024,Q4,Capital adequacy,banker,2,2,8
+2024,Q4,Conduct risk,analyst,0,0,2
+2024,Q4,Credit risk,analyst,0,2,0
+2024,Q4,Credit risk,banker,2,2,4
+2024,Q4,Governance,banker,0,4,0
+2024,Q4,Liquidity,banker,0,2,0
+2024,Q4,Market risk,analyst,0,0,3
+2024,Q4,Market risk,banker,2,2,8
+2024,Q4,Operational risk,banker,0,0,2
+2025,Q1,Capital adequacy,analyst,3,4,1
+2025,Q1,Capital adequacy,banker,0,2,18
+2025,Q1,Conduct risk,analyst,0,2,2
+2025,Q1,Conduct risk,banker,1,0,1
+2025,Q1,Credit risk,analyst,2,0,6
+2025,Q1,Credit risk,banker,3,0,2
+2025,Q1,Liquidity,analyst,0,0,3
+2025,Q1,Liquidity,banker,0,0,2
+2025,Q1,Market risk,analyst,2,3,17
+2025,Q1,Market risk,banker,6,6,16
+2025,Q1,Stress testing,analyst,1,0,0
+2025,Q1,Stress testing,banker,0,0,1
+2025,Q2,Capital adequacy,analyst,0,6,9
+2025,Q2,Capital adequacy,banker,4,13,18
+2025,Q2,Conduct risk,analyst,0,2,2
+2025,Q2,Conduct risk,banker,0,4,3
+2025,Q2,Credit risk,analyst,0,8,4
+2025,Q2,Credit risk,banker,3,2,6
+2025,Q2,Liquidity,banker,0,2,3
+2025,Q2,Market risk,analyst,2,0,9
+2025,Q2,Market risk,banker,1,12,20
+2025,Q2,Stress testing,banker,0,1,2
